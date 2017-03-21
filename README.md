@@ -14,3 +14,6 @@ When using ES6 modules:
 3. Run ```npm run dev``` to start the server.
 4. Start developing.
 
+### Resources
+
+[Material Design Lite Getting Started](https://getmdl.io/started/index.html)
